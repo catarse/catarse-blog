@@ -69,4 +69,4 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/catarse/catarse.github.io
+  repo: git@github.com:catarse/catarse.github.io.git
