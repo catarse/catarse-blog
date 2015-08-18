@@ -7,7 +7,7 @@ title: Hexo
 subtitle:
 description:
 author: John Doe
-language:
+language: en
 timezone:
 
 # URL
@@ -63,7 +63,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: next
+
+# Social Media
+social:
+  GitHub: https://github.com/catarse
+  Twitter: https://twitter.com/catarse
+
+# Code highlight theme
+# available: normal | night | night eighties | night blue | night bright
+highlight_theme: normal
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
